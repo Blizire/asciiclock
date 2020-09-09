@@ -3,4 +3,4 @@ project(asciiclock C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(asciiclock main.c asciichars.c asciichars.h main.h asciiutils.c asciiutils.h)
+add_executable(asciiclock src/main.c src/asciichars.c src/asciichars.h src/main.h src/asciiutils.c src/asciiutils.h)
