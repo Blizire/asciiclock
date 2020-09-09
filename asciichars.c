@@ -41,7 +41,7 @@ char * char_3[ASCMAXLEN] = {
         };
 
 char * char_4[ASCMAXLEN] = {
-        " |     | ",
+        "         ",
         " |     | ",
         " |_____| ",
         "       | ",
